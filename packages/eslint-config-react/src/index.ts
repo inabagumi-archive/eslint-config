@@ -11,7 +11,10 @@ export = {
         'plugin:@typescript-eslint/recommended',
         'prettier/@typescript-eslint'
       ],
-      files: '*.tsx'
+      files: '*.tsx',
+      rules: {
+        'react/prop-types': 'off'
+      }
     }
   ],
   plugins: ['react-hooks'],
