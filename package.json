@@ -1,0 +1,45 @@
+{
+  "author": "Haneru Developers",
+  "bugs": {
+    "url": "https://github.com/inabagumi/eslint-config/issues"
+  },
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {
+    "@inabagumi/eslint-config": "^1.0.0",
+    "@inabagumi/prettier-config": "^1.0.0",
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "lerna": "^3.16.4",
+    "prettier": "^1.18.2",
+    "typescript": "^3.5.3"
+  },
+  "eslintConfig": {
+    "extends": ["@inabagumi"]
+  },
+  "homepage": "https://github.com/inabagumi/eslint-config",
+  "license": "MIT",
+  "name": "eslint-config-inabagumi",
+  "prettier": "@inabagumi/prettier-config",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inabagumi/eslint-config.git"
+  },
+  "scripts": {
+    "format": "prettier --ignore-path .gitignore --write \"**/*.{js,json,ts}\"",
+    "lint": "eslint --ext .js,.ts --ignore-path .gitignore .",
+    "tsc": "lerna run tsc"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0"
+}
