@@ -1,12 +1,17 @@
 export = {
-  extends: ['@inabagumi', 'plugin:vue/essential', 'prettier/vue'],
+  extends: ['@inabagumi'],
   overrides: [
     {
       extends: [
         'plugin:@typescript-eslint/recommended',
-        'prettier/@typescript-eslint'
+        'prettier/@typescript-eslint',
+        'plugin:vue/essential',
+        'prettier/vue'
       ],
-      files: '*.vue'
+      files: '*.vue',
+      parserOptions: {
+        parser: '@typescript-eslint/parser'
+      }
     }
   ]
 }

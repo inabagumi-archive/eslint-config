@@ -22,7 +22,9 @@
     "typescript": "^3.5.3"
   },
   "eslintConfig": {
-    "extends": ["@inabagumi"]
+    "extends": [
+      "@inabagumi"
+    ]
   },
   "homepage": "https://github.com/inabagumi/eslint-config",
   "license": "MIT",
