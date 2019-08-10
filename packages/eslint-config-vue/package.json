@@ -4,7 +4,7 @@
     "url": "https://github.com/inabagumi/eslint-config/issues"
   },
   "dependencies": {
-    "@inabagumi/eslint-config": "^2.0.0"
+    "@inabagumi/eslint-config": "^2.0.1"
   },
   "description": "A config of ESLint for Haneru Developers.",
   "files": [
@@ -34,5 +34,5 @@
   "scripts": {
     "tsc": "tsc"
   },
-  "version": "2.0.0"
+  "version": "2.0.1"
 }
