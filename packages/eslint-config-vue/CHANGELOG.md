@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/inabagumi/eslint-config/compare/v1.0.3...v1.0.4) (2019-08-10)
+
+
+### Bug Fixes
+
+* **vue:** remove ts-eslint/recommended ([#6](https://github.com/inabagumi/eslint-config/issues/6)) ([cab8e9d](https://github.com/inabagumi/eslint-config/commit/cab8e9d))
+
+
+
+
+
 ## [1.0.1](https://github.com/inabagumi/eslint-config/compare/v1.0.0...v1.0.1) (2019-08-09)
 
 **Note:** Version bump only for package @inabagumi/eslint-config-vue
