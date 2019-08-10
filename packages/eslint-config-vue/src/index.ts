@@ -3,8 +3,6 @@ export = {
   overrides: [
     {
       extends: [
-        'plugin:@typescript-eslint/recommended',
-        'prettier/@typescript-eslint',
         'plugin:vue/essential',
         'prettier/vue'
       ],
