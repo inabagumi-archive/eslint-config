@@ -29,7 +29,7 @@
   "scripts": {
     "format": "prettier --ignore-path .gitignore --write \"**/*.{js,json,ts}\"",
     "lint": "eslint --ext .js,.ts --ignore-path .gitignore .",
-    "tsc": "lerna run tsc"
+    "build": "lerna run build"
   },
   "workspaces": [
     "packages/*"
