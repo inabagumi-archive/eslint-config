@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.1](https://github.com/inabagumi/eslint-config/compare/v3.0.0...v3.0.1) (2019-08-20)
+
+
+### Bug Fixes
+
+* **workflows:** build scripts before publish ([#19](https://github.com/inabagumi/eslint-config/issues/19)) ([83cc4ab](https://github.com/inabagumi/eslint-config/commit/83cc4ab))
+
+
+
+
+
 # [3.0.0](https://github.com/inabagumi/eslint-config/compare/v2.1.0...v3.0.0) (2019-08-20)
 
 
