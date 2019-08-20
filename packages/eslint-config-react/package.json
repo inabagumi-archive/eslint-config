@@ -4,7 +4,7 @@
     "url": "https://github.com/inabagumi/eslint-config/issues"
   },
   "dependencies": {
-    "@inabagumi/eslint-config": "^3.0.2",
+    "@inabagumi/eslint-config": "^3.0.3",
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
     "eslint-config-prettier": "^6.1.0",
@@ -37,5 +37,5 @@
   "scripts": {
     "build": "tsc"
   },
-  "version": "3.0.2"
+  "version": "3.0.3"
 }

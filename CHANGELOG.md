@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.3](https://github.com/inabagumi/eslint-config/compare/v3.0.2...v3.0.3) (2019-08-20)
+
+
+### Bug Fixes
+
+* **workflows:** add quot ([#22](https://github.com/inabagumi/eslint-config/issues/22)) ([c8aca94](https://github.com/inabagumi/eslint-config/commit/c8aca94))
+
+
+
+
+
 ## [3.0.2](https://github.com/inabagumi/eslint-config/compare/v3.0.1...v3.0.2) (2019-08-20)
 
 
