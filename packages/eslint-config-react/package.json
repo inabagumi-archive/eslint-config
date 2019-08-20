@@ -35,7 +35,7 @@
     "url": "git+https://github.com/inabagumi/eslint-config.git"
   },
   "scripts": {
-    "tsc": "tsc"
+    "build": "tsc"
   },
   "version": "3.0.0"
 }

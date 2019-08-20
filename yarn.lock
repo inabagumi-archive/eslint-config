@@ -97,6 +97,11 @@
     unique-filename "^1.1.1"
     which "^1.3.1"
 
+"@inabagumi/eslint-config@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@inabagumi/eslint-config/-/eslint-config-2.1.0.tgz#4930e526bcf93cce9564238bdcdc497be1c999ca"
+  integrity sha512-aJsTaqK5Jvf2X87533eWPZlEaUPNVWivP2dPaBcYaxebcPv/AEHvUFa8iUzu9nZMfnQMxEKt7v4D4lq1g77u6A==
+
 "@inabagumi/prettier-config@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@inabagumi/prettier-config/-/prettier-config-1.0.0.tgz#ac77b1217e0656956621c596f7451c1f858dcd58"
@@ -1949,13 +1954,6 @@ escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
-
-eslint-config-prettier@^6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.1.0.tgz#e6f678ba367fbd1273998d5510f76f004e9dce7b"
-  integrity sha512-k9fny9sPjIBQ2ftFTesJV21Rg4R/7a7t7LCtZVrYQiHEp8Nnuk3EGaDmsKSAnsPj0BYcgB2zxzHa2NTkIxcOLg==
-  dependencies:
-    get-stdin "^6.0.0"
 
 eslint-config-prettier@^6.1.0:
   version "6.1.0"
