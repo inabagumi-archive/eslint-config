@@ -26,6 +26,6 @@ jobs:
           node-version: 12
       - run: yarn install --frozen-lockfile
       - run: yarn build
-      - run: yarn lerna publish from-package
+      - run: yarn lerna publish from-package --yes
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
