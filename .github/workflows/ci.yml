@@ -1,18 +1,16 @@
-name: Node.js Package
+name: Node.js CI
 
 on:
   pull_request:
     branches:
-    - !*
+    - master
   push:
     branches:
-    - !*
-    tags:
-    - v*
+    - master
 
 jobs:
-  publish:
-    name: Publish
+  lint:
+    name: Lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -20,7 +18,4 @@ jobs:
         with:
           node-version: 12
       - run: yarn install --frozen-lockfile
-      - run: yarn build
-      - run: yarn lerna publish from-package
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+      - run: yarn lint
