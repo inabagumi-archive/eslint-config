@@ -6,17 +6,9 @@
   "dependencies": {},
   "description": "",
   "devDependencies": {
-    "@inabagumi/eslint-config": "^2.0.1",
+    "@inabagumi/eslint-config": "^2.1.0",
     "@inabagumi/prettier-config": "^1.0.0",
-    "@typescript-eslint/eslint-plugin": "^2.0.0",
-    "@typescript-eslint/parser": "^2.0.0",
     "eslint": "^6.2.1",
-    "eslint-config-prettier": "^6.1.0",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-prettier": "^3.1.0",
-    "eslint-plugin-react": "^7.14.3",
-    "eslint-plugin-react-hooks": "^1.7.0",
-    "eslint-plugin-vue": "^5.2.3",
     "lerna": "^3.16.4",
     "prettier": "^1.18.2",
     "typescript": "^3.5.3"
@@ -28,7 +20,6 @@
   },
   "homepage": "https://github.com/inabagumi/eslint-config",
   "license": "MIT",
-  "name": "eslint-config-inabagumi",
   "prettier": "@inabagumi/prettier-config",
   "private": true,
   "repository": {
@@ -42,6 +33,5 @@
   },
   "workspaces": [
     "packages/*"
-  ],
-  "version": "1.0.0"
+  ]
 }

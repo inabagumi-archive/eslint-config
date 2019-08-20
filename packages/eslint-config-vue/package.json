@@ -4,7 +4,11 @@
     "url": "https://github.com/inabagumi/eslint-config/issues"
   },
   "dependencies": {
-    "@inabagumi/eslint-config": "^2.1.0"
+    "@inabagumi/eslint-config": "^2.1.0",
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-vue": "^5.2.3"
   },
   "description": "A config of ESLint for Haneru Developers.",
   "files": [
@@ -17,10 +21,7 @@
   "main": "lib/index.js",
   "name": "@inabagumi/eslint-config-vue",
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "~1.13.0 || ~2.0.0",
-    "@typescript-eslint/parser": "~1.13.0 || ~2.0.0",
-    "eslint-config-prettier": "^6.0.0",
-    "eslint-plugin-vue": "^5.0.0",
+    "eslint": "^6.0.0",
     "typescript": "~3.5.0"
   },
   "publishConfig": {

@@ -3,6 +3,12 @@
   "bugs": {
     "url": "https://github.com/inabagumi/eslint-config/issues"
   },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-prettier": "^3.1.0"
+  },
   "description": "A config of ESLint for Haneru Developers.",
   "files": [
     "lib",
@@ -14,11 +20,7 @@
   "main": "lib/index.js",
   "name": "@inabagumi/eslint-config",
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "~1.13.0 || ~2.0.0",
-    "@typescript-eslint/parser": "~1.13.0 || ~2.0.0",
     "eslint": "^6.0.0",
-    "eslint-config-prettier": "^6.0.0",
-    "eslint-plugin-prettier": "^3.0.0",
     "prettier": "~1.18.0",
     "typescript": "~3.5.0"
   },
