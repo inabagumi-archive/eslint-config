@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.4](https://github.com/inabagumi/eslint-config/compare/v3.0.3...v3.0.4) (2019-08-20)
+
+
+### Bug Fixes
+
+* **workflows:** add registry URL ([#23](https://github.com/inabagumi/eslint-config/issues/23)) ([cd70ead](https://github.com/inabagumi/eslint-config/commit/cd70ead))
+
+
+
+
+
 ## [3.0.3](https://github.com/inabagumi/eslint-config/compare/v3.0.2...v3.0.3) (2019-08-20)
 
 
