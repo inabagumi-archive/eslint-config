@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/inabagumi/eslint-config/compare/v2.1.0...v3.0.0) (2019-08-20)
+
+
+### Features
+
+* move to deps from peerDeps ([#17](https://github.com/inabagumi/eslint-config/issues/17)) ([62ac477](https://github.com/inabagumi/eslint-config/commit/62ac477))
+
+
+
+
+
 # [2.0.0](https://github.com/inabagumi/eslint-config/compare/v1.0.4...v2.0.0) (2019-08-10)
 
 
