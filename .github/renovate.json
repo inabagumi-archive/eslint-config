@@ -1,9 +1,3 @@
 {
-  "extends": ["@inabagumi"],
-  "packageRules": [
-    {
-      "depTypeList": ["peerDependencies"],
-      "rangeStrategy": "auto"
-    }
-  ]
+  "extends": ["@inabagumi"]
 }
