@@ -3,12 +3,12 @@ name: Node.js Package
 on:
   pull_request:
     branches:
-    - !*
+    - '!*'
   push:
     branches:
-    - !*
+    - '!*'
     tags:
-    - v*
+    - 'v*'
 
 jobs:
   publish:
