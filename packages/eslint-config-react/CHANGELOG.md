@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.0.0](https://github.com/inabagumi/eslint-config/compare/v3.0.4...v4.0.0) (2019-08-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react-hooks to v2 ([#27](https://github.com/inabagumi/eslint-config/issues/27)) ([2992b1a](https://github.com/inabagumi/eslint-config/commit/2992b1a))
+
+
+
+
+
 ## [3.0.4](https://github.com/inabagumi/eslint-config/compare/v3.0.3...v3.0.4) (2019-08-20)
 
 **Note:** Version bump only for package @inabagumi/eslint-config-react
