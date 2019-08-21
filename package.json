@@ -27,9 +27,11 @@
     "url": "git+https://github.com/inabagumi/eslint-config.git"
   },
   "scripts": {
+    "build": "lerna run build",
     "format": "prettier --ignore-path .gitignore --write \"**/*.{js,json,ts}\"",
+    "format-check": "prettier --ignore-path .gitignore --check \"**/*.{js,json,ts}\"",
     "lint": "eslint --ext .js,.ts --ignore-path .gitignore .",
-    "build": "lerna run build"
+    "release": "lerna version --conventional-commits"
   },
   "workspaces": [
     "packages/*"
