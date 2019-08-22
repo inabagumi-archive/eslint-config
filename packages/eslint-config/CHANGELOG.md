@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.1](https://github.com/inabagumi/eslint-config/compare/v4.1.0...v4.1.1) (2019-08-22)
+
+
+### Bug Fixes
+
+* ignore setting files ([#32](https://github.com/inabagumi/eslint-config/issues/32)) ([03e6652](https://github.com/inabagumi/eslint-config/commit/03e6652))
+
+
+
+
+
 # [4.1.0](https://github.com/inabagumi/eslint-config/compare/v4.0.0...v4.1.0) (2019-08-22)
 
 
