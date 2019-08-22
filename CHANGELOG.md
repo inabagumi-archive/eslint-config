@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.1.0](https://github.com/inabagumi/eslint-config/compare/v4.0.0...v4.1.0) (2019-08-22)
+
+
+### Features
+
+* cleanup deps ([#30](https://github.com/inabagumi/eslint-config/issues/30)) ([e580c79](https://github.com/inabagumi/eslint-config/commit/e580c79))
+
+
+
+
+
 # [4.0.0](https://github.com/inabagumi/eslint-config/compare/v3.0.4...v4.0.0) (2019-08-21)
 
 
