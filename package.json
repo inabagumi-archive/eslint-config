@@ -13,11 +13,6 @@
     "react": "^16.9.0",
     "typescript": "^3.5.3"
   },
-  "eslintConfig": {
-    "extends": [
-      "@inabagumi"
-    ]
-  },
   "homepage": "https://github.com/inabagumi/eslint-config",
   "license": "MIT",
   "prettier": "@inabagumi/prettier-config",
@@ -30,8 +25,7 @@
     "build": "lerna run build",
     "format": "prettier --ignore-path .gitignore --write \"**/*.{js,json,ts}\"",
     "format-check": "prettier --ignore-path .gitignore --check \"**/*.{js,json,ts}\"",
-    "lint": "eslint --ext .js,.ts --ignore-path .gitignore .",
-    "release": "lerna version --conventional-commits"
+    "release": "lerna version"
   },
   "workspaces": [
     "packages/*"
