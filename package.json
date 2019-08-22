@@ -6,11 +6,11 @@
   "dependencies": {},
   "description": "",
   "devDependencies": {
-    "@inabagumi/eslint-config": "^2.1.0",
     "@inabagumi/prettier-config": "^1.1.0",
     "eslint": "^6.2.1",
     "lerna": "^3.16.4",
     "prettier": "^1.18.2",
+    "react": "^16.9.0",
     "typescript": "^3.5.3"
   },
   "eslintConfig": {
