@@ -10,6 +10,14 @@ export = {
     'prettier',
     'prettier/@typescript-eslint'
   ],
+  overrides: [
+    {
+      files: ['gatsby-*.js', 'next.config.js'],
+      rules: {
+        '@typescript-eslint/no-var-requires': 'off'
+      }
+    }
+  ],
   parserOptions: {
     sourceType: 'module'
   },
