@@ -7,10 +7,6 @@ export = {
   ],
   overrides: [
     {
-      extends: [
-        'plugin:@typescript-eslint/recommended',
-        'prettier/@typescript-eslint'
-      ],
       files: '*.tsx',
       rules: {
         'react/prop-types': 'off'
