@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.2.0](https://github.com/inabagumi/eslint-config/compare/v4.1.2...v4.2.0) (2019-09-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^6.3.0 ([#42](https://github.com/inabagumi/eslint-config/issues/42)) ([4fe0777](https://github.com/inabagumi/eslint-config/commit/4fe0777))
+* **deps:** update react monorepo ([#50](https://github.com/inabagumi/eslint-config/issues/50)) ([ef2c5be](https://github.com/inabagumi/eslint-config/commit/ef2c5be))
+* **deps:** update react monorepo ([#51](https://github.com/inabagumi/eslint-config/issues/51)) ([422c372](https://github.com/inabagumi/eslint-config/commit/422c372))
+
+
+
+
+
 ## [4.1.2](https://github.com/inabagumi/eslint-config/compare/v4.1.1...v4.1.2) (2019-09-09)
 
 
