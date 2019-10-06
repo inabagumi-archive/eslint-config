@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@inabagumi/eslint-config": "^4.2.0",
-    "eslint-config-prettier": "^6.3.0",
+    "eslint-config-prettier": "^6.4.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.16.0",
     "eslint-plugin-react-hooks": "^2.1.2"
