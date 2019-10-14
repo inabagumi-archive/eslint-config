@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.3.0](https://github.com/inabagumi/eslint-config/compare/v4.2.0...v4.3.0) (2019-10-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^6.4.0 ([#60](https://github.com/inabagumi/eslint-config/issues/60)) ([6f009c6](https://github.com/inabagumi/eslint-config/commit/6f009c6))
+* **deps:** update dependency eslint-plugin-react to ^7.15.0 ([#56](https://github.com/inabagumi/eslint-config/issues/56)) ([1d9828d](https://github.com/inabagumi/eslint-config/commit/1d9828d))
+* **deps:** update dependency eslint-plugin-react to ^7.15.1 ([#57](https://github.com/inabagumi/eslint-config/issues/57)) ([101ab97](https://github.com/inabagumi/eslint-config/commit/101ab97))
+* **deps:** update dependency eslint-plugin-react to ^7.16.0 ([#59](https://github.com/inabagumi/eslint-config/issues/59)) ([8b5139c](https://github.com/inabagumi/eslint-config/commit/8b5139c))
+* **deps:** update react monorepo ([#58](https://github.com/inabagumi/eslint-config/issues/58)) ([4181809](https://github.com/inabagumi/eslint-config/commit/4181809))
+* **deps:** update typescript-eslint monorepo to ^2.3.2 ([#54](https://github.com/inabagumi/eslint-config/issues/54)) ([ae05b06](https://github.com/inabagumi/eslint-config/commit/ae05b06))
+* **deps:** update typescript-eslint monorepo to ^2.3.3 ([#62](https://github.com/inabagumi/eslint-config/issues/62)) ([733c300](https://github.com/inabagumi/eslint-config/commit/733c300))
+* **deps:** update typescript-eslint monorepo to ^2.4.0 ([#67](https://github.com/inabagumi/eslint-config/issues/67)) ([b8e2b4d](https://github.com/inabagumi/eslint-config/commit/b8e2b4d))
+
+
+
+
+
 # [4.2.0](https://github.com/inabagumi/eslint-config/compare/v4.1.2...v4.2.0) (2019-09-29)
 
 

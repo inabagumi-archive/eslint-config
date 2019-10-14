@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.3.0](https://github.com/inabagumi/eslint-config/compare/v4.2.0...v4.3.0) (2019-10-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^6.4.0 ([#60](https://github.com/inabagumi/eslint-config/issues/60)) ([6f009c6](https://github.com/inabagumi/eslint-config/commit/6f009c6))
+
+
+
+
+
 # [4.2.0](https://github.com/inabagumi/eslint-config/compare/v4.1.2...v4.2.0) (2019-09-29)
 
 
