@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.4.0](https://github.com/inabagumi/eslint-config/compare/v4.3.0...v4.4.0) (2019-10-26)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to ^2.5.0 ([#71](https://github.com/inabagumi/eslint-config/issues/71)) ([6f9878b](https://github.com/inabagumi/eslint-config/commit/6f9878b))
+
+
+
+
+
 # [4.3.0](https://github.com/inabagumi/eslint-config/compare/v4.2.0...v4.3.0) (2019-10-14)
 
 
