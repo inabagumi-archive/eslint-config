@@ -6,7 +6,7 @@
   "dependencies": {
     "@inabagumi/eslint-config": "^4.4.1",
     "eslint-config-prettier": "^6.5.0",
-    "eslint-plugin-vue": "^5.2.3"
+    "eslint-plugin-vue": "^6.0.0"
   },
   "description": "A config of ESLint for Haneru Developers.",
   "files": [
