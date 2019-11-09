@@ -21,7 +21,7 @@
   "name": "@inabagumi/eslint-config",
   "peerDependencies": {
     "eslint": "^6.0.0",
-    "prettier": "~1.18.0",
+    "prettier": "~1.18.0 || ~1.19.0",
     "typescript": "~3.5.0 || ~3.6.0 || ~3.7.0"
   },
   "publishConfig": {
