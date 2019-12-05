@@ -25,11 +25,6 @@ jobs:
       - run: yarn lerna publish from-package --yes
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
-      - uses: actions/create-release@master
+      - run: yarn conventional-github-releaser -p angular
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
+          CONVENTIONAL_GITHUB_RELEASER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
