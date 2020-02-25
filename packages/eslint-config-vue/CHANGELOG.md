@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.1.0](https://github.com/inabagumi/eslint-config/compare/v5.0.0...v5.1.0) (2020-02-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^6.10.0 ([#137](https://github.com/inabagumi/eslint-config/issues/137)) ([4531798](https://github.com/inabagumi/eslint-config/commit/4531798178c2818217540540cf53996809c57c0e))
+* **deps:** update dependency eslint-config-prettier to ^6.8.0 ([#116](https://github.com/inabagumi/eslint-config/issues/116)) ([85757bc](https://github.com/inabagumi/eslint-config/commit/85757bc0af570033b4577b4d899c5c39857927a7))
+* **deps:** update dependency eslint-config-prettier to ^6.9.0 ([#120](https://github.com/inabagumi/eslint-config/issues/120)) ([537e5cb](https://github.com/inabagumi/eslint-config/commit/537e5cb8a886e83542acea7ec59ed2581d812558))
+* **deps:** update dependency eslint-plugin-vue to ^6.0.2 ([#117](https://github.com/inabagumi/eslint-config/issues/117)) ([81d1f53](https://github.com/inabagumi/eslint-config/commit/81d1f53d88e09b212a9017e9eed009b32c09b8b2))
+* **deps:** update dependency eslint-plugin-vue to ^6.1.0 ([#118](https://github.com/inabagumi/eslint-config/issues/118)) ([3a49ced](https://github.com/inabagumi/eslint-config/commit/3a49cedd159884c960f35d400131dcacf173a20f))
+* **deps:** update dependency eslint-plugin-vue to ^6.1.1 ([#119](https://github.com/inabagumi/eslint-config/issues/119)) ([ce099de](https://github.com/inabagumi/eslint-config/commit/ce099de1cfac6929a83a8daedd78932f58f6fce2))
+* **deps:** update dependency eslint-plugin-vue to ^6.1.2 ([#124](https://github.com/inabagumi/eslint-config/issues/124)) ([87b0024](https://github.com/inabagumi/eslint-config/commit/87b0024dce2ed66848c15b3dac5d03a0e0fdca81))
+* **deps:** update dependency eslint-plugin-vue to ^6.2.0 ([#144](https://github.com/inabagumi/eslint-config/issues/144)) ([d392916](https://github.com/inabagumi/eslint-config/commit/d39291641f7e81d324550d6c886d02d45926b412))
+* **deps:** update dependency eslint-plugin-vue to ^6.2.1 ([#146](https://github.com/inabagumi/eslint-config/issues/146)) ([227c460](https://github.com/inabagumi/eslint-config/commit/227c460ad809ae9892cc7743b856e08800cb38bd))
+
+
+
+
+
 # [5.0.0](https://github.com/inabagumi/eslint-config/compare/v4.4.1...v5.0.0) (2019-12-01)
 
 

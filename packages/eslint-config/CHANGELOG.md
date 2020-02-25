@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.1.0](https://github.com/inabagumi/eslint-config/compare/v5.0.0...v5.1.0) (2020-02-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^6.10.0 ([#137](https://github.com/inabagumi/eslint-config/issues/137)) ([4531798](https://github.com/inabagumi/eslint-config/commit/4531798178c2818217540540cf53996809c57c0e))
+* **deps:** update dependency eslint-config-prettier to ^6.8.0 ([#116](https://github.com/inabagumi/eslint-config/issues/116)) ([85757bc](https://github.com/inabagumi/eslint-config/commit/85757bc0af570033b4577b4d899c5c39857927a7))
+* **deps:** update dependency eslint-config-prettier to ^6.9.0 ([#120](https://github.com/inabagumi/eslint-config/issues/120)) ([537e5cb](https://github.com/inabagumi/eslint-config/commit/537e5cb8a886e83542acea7ec59ed2581d812558))
+* **deps:** update dependency eslint-plugin-prettier to ^3.1.2 ([#109](https://github.com/inabagumi/eslint-config/issues/109)) ([6edd946](https://github.com/inabagumi/eslint-config/commit/6edd9461275ca97209e6bb589fd1ef31401dbc26))
+* **deps:** update typescript-eslint monorepo to ^2.10.0 ([#105](https://github.com/inabagumi/eslint-config/issues/105)) ([97990d7](https://github.com/inabagumi/eslint-config/commit/97990d70e352c875ea96f99d420996d7e85e6cb2))
+* **deps:** update typescript-eslint monorepo to ^2.11.0 ([#108](https://github.com/inabagumi/eslint-config/issues/108)) ([7085355](https://github.com/inabagumi/eslint-config/commit/70853556f33e040e656e694ab862ad7949d927d4))
+* **deps:** update typescript-eslint monorepo to ^2.12.0 ([#111](https://github.com/inabagumi/eslint-config/issues/111)) ([a941146](https://github.com/inabagumi/eslint-config/commit/a9411469790d99afdc4d2887c53c103f19755913))
+* **deps:** update typescript-eslint monorepo to ^2.13.0 ([#115](https://github.com/inabagumi/eslint-config/issues/115)) ([72ca9cc](https://github.com/inabagumi/eslint-config/commit/72ca9ccda7e8035a9cc184dedd9fe19be0930bc0))
+* **deps:** update typescript-eslint monorepo to ^2.14.0 ([#125](https://github.com/inabagumi/eslint-config/issues/125)) ([ad44a99](https://github.com/inabagumi/eslint-config/commit/ad44a99c1b1c983e762da83b0bb32af929491849))
+* **deps:** update typescript-eslint monorepo to ^2.15.0 ([#128](https://github.com/inabagumi/eslint-config/issues/128)) ([294d60f](https://github.com/inabagumi/eslint-config/commit/294d60f080067e1cea69d12bb329c2778ad38fe5))
+* **deps:** update typescript-eslint monorepo to ^2.16.0 ([#130](https://github.com/inabagumi/eslint-config/issues/130)) ([0406e1f](https://github.com/inabagumi/eslint-config/commit/0406e1f0653c36b581270ff70f0e1a32a5427a6c))
+* **deps:** update typescript-eslint monorepo to ^2.17.0 ([#134](https://github.com/inabagumi/eslint-config/issues/134)) ([f22cb6b](https://github.com/inabagumi/eslint-config/commit/f22cb6b1c8b1322c80339a1210f6f6bc7f8afd10))
+* **deps:** update typescript-eslint monorepo to ^2.18.0 ([#136](https://github.com/inabagumi/eslint-config/issues/136)) ([81b81dd](https://github.com/inabagumi/eslint-config/commit/81b81dd410ff5a08b854e2b3f2bc99abb0650b0f))
+* **deps:** update typescript-eslint monorepo to ^2.19.0 ([#141](https://github.com/inabagumi/eslint-config/issues/141)) ([bf8123c](https://github.com/inabagumi/eslint-config/commit/bf8123c8e4de21c38e30b029405948173cf8a226))
+* **deps:** update typescript-eslint monorepo to ^2.19.2 ([#143](https://github.com/inabagumi/eslint-config/issues/143)) ([64bd8b7](https://github.com/inabagumi/eslint-config/commit/64bd8b78f266b63f17bf6d29246c5ea054b908c3))
+* **deps:** update typescript-eslint monorepo to ^2.20.0 ([#147](https://github.com/inabagumi/eslint-config/issues/147)) ([da0fedc](https://github.com/inabagumi/eslint-config/commit/da0fedc2cb5f3bb16fe7dc8dc95ea1ada3a19783))
+* **deps:** update typescript-eslint monorepo to ^2.21.0 ([#151](https://github.com/inabagumi/eslint-config/issues/151)) ([2706119](https://github.com/inabagumi/eslint-config/commit/270611936e27c330eb76321c25d147698bc462a2))
+
+
+
+
+
 # [5.0.0](https://github.com/inabagumi/eslint-config/compare/v4.4.1...v5.0.0) (2019-12-01)
 
 

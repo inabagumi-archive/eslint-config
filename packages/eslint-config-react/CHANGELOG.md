@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.1.0](https://github.com/inabagumi/eslint-config/compare/v5.0.0...v5.1.0) (2020-02-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^6.10.0 ([#137](https://github.com/inabagumi/eslint-config/issues/137)) ([4531798](https://github.com/inabagumi/eslint-config/commit/4531798178c2818217540540cf53996809c57c0e))
+* **deps:** update dependency eslint-config-prettier to ^6.8.0 ([#116](https://github.com/inabagumi/eslint-config/issues/116)) ([85757bc](https://github.com/inabagumi/eslint-config/commit/85757bc0af570033b4577b4d899c5c39857927a7))
+* **deps:** update dependency eslint-config-prettier to ^6.9.0 ([#120](https://github.com/inabagumi/eslint-config/issues/120)) ([537e5cb](https://github.com/inabagumi/eslint-config/commit/537e5cb8a886e83542acea7ec59ed2581d812558))
+* **deps:** update dependency eslint-plugin-react to ^7.18.0 ([#131](https://github.com/inabagumi/eslint-config/issues/131)) ([e2deabd](https://github.com/inabagumi/eslint-config/commit/e2deabdc9a7168379993985948f6238432f69a74))
+* **deps:** update dependency eslint-plugin-react to ^7.18.2 ([#138](https://github.com/inabagumi/eslint-config/issues/138)) ([8e04bf9](https://github.com/inabagumi/eslint-config/commit/8e04bf9e23431be38505e20913956166571c003c))
+* **deps:** update dependency eslint-plugin-react to ^7.18.3 ([#140](https://github.com/inabagumi/eslint-config/issues/140)) ([5399818](https://github.com/inabagumi/eslint-config/commit/5399818a56dae5a7d4124147a9e5323a6b1cca22))
+* **deps:** update dependency eslint-plugin-react-hooks to ^2.4.0 ([#148](https://github.com/inabagumi/eslint-config/issues/148)) ([36c70c3](https://github.com/inabagumi/eslint-config/commit/36c70c3f4410d3fe72fdce4fee3c8791f5809bc9))
+
+
+
+
+
 # [5.0.0](https://github.com/inabagumi/eslint-config/compare/v4.4.1...v5.0.0) (2019-12-01)
 
 
