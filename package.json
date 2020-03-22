@@ -22,6 +22,9 @@
     "type": "git",
     "url": "git+https://github.com/inabagumi/eslint-config.git"
   },
+  "resolutions": {
+    "minimist": "^1.2.5"
+  },
   "scripts": {
     "build": "lerna run build",
     "format": "prettier --ignore-path .gitignore --write \"**/*.{js,json,ts}\"",
