@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.1](https://github.com/inabagumi/eslint-config/compare/v5.1.0...v5.1.1) (2020-03-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react to ^7.19.0 ([#156](https://github.com/inabagumi/eslint-config/issues/156)) ([208a41b](https://github.com/inabagumi/eslint-config/commit/208a41bb87a75b1d50f91dabe0ceefef03d740fd))
+* **deps:** update react monorepo ([#152](https://github.com/inabagumi/eslint-config/issues/152)) ([d3c4218](https://github.com/inabagumi/eslint-config/commit/d3c4218933406378bc3b63f747ad0eafb64c0179))
+
+
+
+
+
 # [5.1.0](https://github.com/inabagumi/eslint-config/compare/v5.0.0...v5.1.0) (2020-02-25)
 
 

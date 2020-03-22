@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.1](https://github.com/inabagumi/eslint-config/compare/v5.1.0...v5.1.1) (2020-03-22)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to ^2.22.0 ([#155](https://github.com/inabagumi/eslint-config/issues/155)) ([45349da](https://github.com/inabagumi/eslint-config/commit/45349dadf0a7f4d0b8bd28f466213d5a7c565b12))
+* **deps:** update typescript-eslint monorepo to ^2.23.0 ([#159](https://github.com/inabagumi/eslint-config/issues/159)) ([15ea3ef](https://github.com/inabagumi/eslint-config/commit/15ea3ef81011de5415fca754478e93b68d13ee34))
+* **deps:** update typescript-eslint monorepo to ^2.24.0 ([#161](https://github.com/inabagumi/eslint-config/issues/161)) ([342e789](https://github.com/inabagumi/eslint-config/commit/342e7897080cc2b065e1838f5fa2ceccfae0fda1))
+
+
+
+
+
 # [5.1.0](https://github.com/inabagumi/eslint-config/compare/v5.0.0...v5.1.0) (2020-02-25)
 
 

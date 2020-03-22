@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.1](https://github.com/inabagumi/eslint-config/compare/v5.1.0...v5.1.1) (2020-03-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-vue to ^6.2.2 ([#157](https://github.com/inabagumi/eslint-config/issues/157)) ([b5c4725](https://github.com/inabagumi/eslint-config/commit/b5c4725ed28504c85c6cacb004a514a623e9b921))
+
+
+
+
+
 # [5.1.0](https://github.com/inabagumi/eslint-config/compare/v5.0.0...v5.1.0) (2020-02-25)
 
 
