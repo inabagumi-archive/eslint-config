@@ -21,7 +21,7 @@
   "main": "lib/index.js",
   "name": "@inabagumi/eslint-config-react",
   "peerDependencies": {
-    "eslint": "^6.0.0",
+    "eslint": "^6.0.0 || ^7.0.0",
     "typescript": "~3.7.0 || ~3.8.0"
   },
   "publishConfig": {
