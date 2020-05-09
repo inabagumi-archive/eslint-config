@@ -4,7 +4,7 @@
     "url": "https://github.com/inabagumi/eslint-config/issues"
   },
   "dependencies": {
-    "@inabagumi/eslint-config": "^5.1.1",
+    "@inabagumi/eslint-config": "^5.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
@@ -35,5 +35,5 @@
   "scripts": {
     "build": "tsc"
   },
-  "version": "5.1.1"
+  "version": "5.2.0"
 }
