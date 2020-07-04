@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.3.1](https://github.com/inabagumi/eslint-config/compare/v5.3.0...v5.3.1) (2020-07-04)
+
+
+### Bug Fixes
+
+* disable @typescript-eslint/explicit-function-return-type on config ([#238](https://github.com/inabagumi/eslint-config/issues/238)) ([8a10c1c](https://github.com/inabagumi/eslint-config/commit/8a10c1cbd8da316c144486145c31a09e1855b7c5))
+
+
+
+
+
 # [5.3.0](https://github.com/inabagumi/eslint-config/compare/v5.2.0...v5.3.0) (2020-05-13)
 
 **Note:** Version bump only for package eslint-config
