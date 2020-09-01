@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.1](https://github.com/inabagumi/eslint-config/compare/v6.0.0...v6.0.1) (2020-09-01)
+
+
+### Bug Fixes
+
+* add ecma version ([#277](https://github.com/inabagumi/eslint-config/issues/277)) ([5572cc7](https://github.com/inabagumi/eslint-config/commit/5572cc7e7bb0505ede5d9062fcae141116b7ef4e))
+
+
+
+
+
 # [6.0.0](https://github.com/inabagumi/eslint-config/compare/v5.3.1...v6.0.0) (2020-09-01)
 
 
