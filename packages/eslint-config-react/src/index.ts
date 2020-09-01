@@ -1,26 +1,35 @@
 export = {
-  extends: [
-    '@inabagumi',
-    'plugin:react/recommended',
-    'plugin:jsx-a11y/recommended',
-    'prettier/react'
-  ],
+  extends: ['@inabagumi'],
   overrides: [
     {
-      files: '*.tsx',
+      extends: [
+        'plugin:react/recommended',
+        'plugin:jsx-a11y/recommended',
+        'prettier/react'
+      ],
+      files: ['*.jsx', '*.tsx'],
+      plugins: ['react-hooks'],
+      rules: {
+        'react-hooks/exhaustive-deps': 'error',
+        'react-hooks/rules-of-hooks': 'error'
+      },
+      settings: {
+        react: {
+          version: 'detect'
+        }
+      }
+    },
+    {
+      extends: [
+        'plugin:@typescript-eslint/eslint-recommended',
+        'plugin:@typescript-eslint/recommended',
+        'plugin:@typescript-eslint/recommended-requiring-type-checking',
+        'prettier/@typescript-eslint'
+      ],
+      files: ['*.tsx'],
       rules: {
         'react/prop-types': 'off'
       }
     }
-  ],
-  plugins: ['react-hooks'],
-  rules: {
-    'react-hooks/exhaustive-deps': 'error',
-    'react-hooks/rules-of-hooks': 'error'
-  },
-  settings: {
-    react: {
-      version: 'detect'
-    }
-  }
+  ]
 }
