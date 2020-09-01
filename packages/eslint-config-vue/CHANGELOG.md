@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.0.0](https://github.com/inabagumi/eslint-config/compare/v5.3.1...v6.0.0) (2020-09-01)
+
+
+### Features
+
+* improve overrides ([#276](https://github.com/inabagumi/eslint-config/issues/276)) ([1bcfbd3](https://github.com/inabagumi/eslint-config/commit/1bcfbd3264ff1a656ecd22dde20f41d5096eef37))
+
+
+### BREAKING CHANGES
+
+* big change in structure
+
+
+
+
+
 ## [5.3.1](https://github.com/inabagumi/eslint-config/compare/v5.3.0...v5.3.1) (2020-07-04)
 
 **Note:** Version bump only for package @inabagumi/eslint-config-vue
