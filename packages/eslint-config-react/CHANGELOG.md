@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.2](https://github.com/inabagumi/eslint-config/compare/v6.0.1...v6.0.2) (2020-10-21)
+
+
+### Bug Fixes
+
+* **react:** disable react/jsx-uses-react and react/react-in-jsx-scope ([#317](https://github.com/inabagumi/eslint-config/issues/317)) ([d1a7715](https://github.com/inabagumi/eslint-config/commit/d1a7715f9da4c68626e7f432f4fa9556085285b7))
+
+
+
+
+
 ## [6.0.1](https://github.com/inabagumi/eslint-config/compare/v6.0.0...v6.0.1) (2020-09-01)
 
 **Note:** Version bump only for package @inabagumi/eslint-config-react
