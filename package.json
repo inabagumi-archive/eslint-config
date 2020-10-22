@@ -11,7 +11,7 @@
     "eslint": "^7.11.0",
     "lerna": "^3.22.1",
     "prettier": "^2.1.2",
-    "react": "^17.0.0",
+    "react": "^17.0.1",
     "typescript": "^4.0.3"
   },
   "homepage": "https://github.com/inabagumi/eslint-config",
