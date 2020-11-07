@@ -8,7 +8,7 @@
   "devDependencies": {
     "@inabagumi/prettier-config": "^1.1.2",
     "conventional-github-releaser": "^3.1.5",
-    "eslint": "^7.12.1",
+    "eslint": "^7.13.0",
     "lerna": "^3.22.1",
     "prettier": "^2.1.2",
     "react": "^17.0.1",
