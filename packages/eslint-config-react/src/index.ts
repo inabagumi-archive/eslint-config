@@ -4,16 +4,14 @@ export = {
     {
       extends: [
         'plugin:react/recommended',
+        'plugin:react-hooks/recommended',
         'plugin:jsx-a11y/recommended',
         'prettier/react'
       ],
       files: ['*.jsx', '*.tsx'],
-      plugins: ['react-hooks'],
       rules: {
         'react/jsx-uses-react': 'off',
-        'react/react-in-jsx-scope': 'off',
-        'react-hooks/exhaustive-deps': 'error',
-        'react-hooks/rules-of-hooks': 'error'
+        'react/react-in-jsx-scope': 'off'
       },
       settings: {
         react: {
