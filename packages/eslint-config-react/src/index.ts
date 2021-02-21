@@ -5,8 +5,7 @@ export = {
       extends: [
         'plugin:react/recommended',
         'plugin:react-hooks/recommended',
-        'plugin:jsx-a11y/recommended',
-        'prettier/react'
+        'plugin:jsx-a11y/recommended'
       ],
       files: ['*.jsx', '*.tsx'],
       rules: {
@@ -23,8 +22,7 @@ export = {
       extends: [
         'plugin:@typescript-eslint/eslint-recommended',
         'plugin:@typescript-eslint/recommended',
-        'plugin:@typescript-eslint/recommended-requiring-type-checking',
-        'prettier/@typescript-eslint'
+        'plugin:@typescript-eslint/recommended-requiring-type-checking'
       ],
       files: ['*.tsx'],
       rules: {
