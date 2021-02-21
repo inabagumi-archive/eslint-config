@@ -1,5 +1,5 @@
 export = {
-  extends: ['@inabagumi', 'plugin:vue/essential', 'prettier/vue'],
+  extends: ['@inabagumi', 'plugin:vue/essential'],
   overrides: [
     {
       files: ['*.ts', '*.vue'],
