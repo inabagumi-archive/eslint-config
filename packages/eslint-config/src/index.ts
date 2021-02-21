@@ -3,14 +3,13 @@ export = {
     browser: true,
     node: true
   },
-  extends: ['eslint:recommended', 'prettier'],
+  extends: ['eslint:recommended', 'plugin:prettier/eslint-recommended'],
   overrides: [
     {
       extends: [
         'plugin:@typescript-eslint/eslint-recommended',
         'plugin:@typescript-eslint/recommended',
-        'plugin:@typescript-eslint/recommended-requiring-type-checking',
-        'prettier/@typescript-eslint'
+        'plugin:@typescript-eslint/recommended-requiring-type-checking'
       ],
       files: ['*.ts']
     }
@@ -18,9 +17,5 @@ export = {
   parserOptions: {
     ecmaVersion: 2020,
     sourceType: 'module'
-  },
-  plugins: ['prettier'],
-  rules: {
-    'prettier/prettier': 'error'
   }
 }
