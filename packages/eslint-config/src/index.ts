@@ -3,7 +3,7 @@ export = {
     browser: true,
     node: true
   },
-  extends: ['eslint:recommended', 'plugin:prettier/eslint-recommended'],
+  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
   overrides: [
     {
       extends: [
