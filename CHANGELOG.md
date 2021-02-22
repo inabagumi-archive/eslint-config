@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [8.0.0](https://github.com/inabagumi/eslint-config/compare/v7.0.0...v8.0.0) (2021-02-22)
+
+
+### Features
+
+* use recommended config for react-hooks ([#384](https://github.com/inabagumi/eslint-config/issues/384)) ([6588317](https://github.com/inabagumi/eslint-config/commit/658831759ec3cc3cba1fc712b0cc5352d8d4e16d))
+
+
+
+
+
 # [7.0.0](https://github.com/inabagumi/eslint-config/compare/v6.0.2...v7.0.0) (2020-11-29)
 
 **Note:** Version bump only for package eslint-config
