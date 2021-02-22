@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.0.1](https://github.com/inabagumi/eslint-config/compare/v8.0.0...v8.0.1) (2021-02-22)
+
+
+### Bug Fixes
+
+* **deps:** fix invalid file path ([#398](https://github.com/inabagumi/eslint-config/issues/398)) ([bd49290](https://github.com/inabagumi/eslint-config/commit/bd49290e43e60d12fe3a3129bf315e0cc0fd6366))
+
+
+
+
+
 # [8.0.0](https://github.com/inabagumi/eslint-config/compare/v7.0.0...v8.0.0) (2021-02-22)
 
 
