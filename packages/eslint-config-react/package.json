@@ -22,7 +22,7 @@
   "name": "@inabagumi/eslint-config-react",
   "peerDependencies": {
     "eslint": "^7.0.0",
-    "typescript": "~4.0.0 || ~4.1.0"
+    "typescript": "~4.0.0 || ~4.1.0 || ~4.2.0"
   },
   "publishConfig": {
     "access": "public"
