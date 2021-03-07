@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [9.0.0](https://github.com/inabagumi/eslint-config/compare/v8.0.1...v9.0.0) (2021-03-07)
+
+**Note:** Version bump only for package @inabagumi/eslint-config-react
+
+
+
+
+
 ## [8.0.1](https://github.com/inabagumi/eslint-config/compare/v8.0.0...v8.0.1) (2021-02-22)
 
 **Note:** Version bump only for package @inabagumi/eslint-config-react
