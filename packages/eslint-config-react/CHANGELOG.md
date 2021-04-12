@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [9.0.1](https://github.com/inabagumi/eslint-config/compare/v9.0.0...v9.0.1) (2021-04-12)
+
+
+### Bug Fixes
+
+* **deps:** use only patch releases ([#430](https://github.com/inabagumi/eslint-config/issues/430)) ([f44b06f](https://github.com/inabagumi/eslint-config/commit/f44b06fa3e8b9ec85bff67bc6c870d62b6dec25a))
+* **react:** move eslint-plugin-react-hooks to all exts ([#429](https://github.com/inabagumi/eslint-config/issues/429)) ([cf2f338](https://github.com/inabagumi/eslint-config/commit/cf2f338b07a82962efac3498e5c8435e5f49e848))
+
+
+
+
+
 # [9.0.0](https://github.com/inabagumi/eslint-config/compare/v8.0.1...v9.0.0) (2021-03-07)
 
 **Note:** Version bump only for package @inabagumi/eslint-config-react
