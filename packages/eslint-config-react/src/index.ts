@@ -3,7 +3,7 @@ export = {
   overrides: [
     {
       extends: ['plugin:react-hooks/recommended'],
-      files: ['*.js', '*.jsx', '*.ts', '*.tsx'],
+      files: ['*.js', '*.jsx', '*.ts', '*.tsx']
     },
     {
       extends: ['plugin:react/recommended', 'plugin:jsx-a11y/recommended'],
