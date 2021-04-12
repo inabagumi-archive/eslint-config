@@ -2,11 +2,11 @@ export = {
   extends: ['@inabagumi'],
   overrides: [
     {
-      extends: [
-        'plugin:react/recommended',
-        'plugin:react-hooks/recommended',
-        'plugin:jsx-a11y/recommended'
-      ],
+      extends: ['plugin:react-hooks/recommended'],
+      files: ['*.js', '*.jsx', '*.ts', '*.tsx'],
+    },
+    {
+      extends: ['plugin:react/recommended', 'plugin:jsx-a11y/recommended'],
       files: ['*.jsx', '*.tsx'],
       rules: {
         'react/jsx-uses-react': 'off',
