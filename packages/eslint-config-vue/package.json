@@ -4,9 +4,9 @@
     "url": "https://github.com/inabagumi/eslint-config/issues"
   },
   "dependencies": {
-    "@inabagumi/eslint-config": "^9.0.0",
-    "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-vue": "^7.8.0"
+    "@inabagumi/eslint-config": "9.0.0",
+    "eslint-config-prettier": "~8.1.0",
+    "eslint-plugin-vue": "~7.8.0"
   },
   "description": "A config of ESLint for Haneru Developers.",
   "files": [
